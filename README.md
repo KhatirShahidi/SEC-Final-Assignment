@@ -4,6 +4,8 @@ This project includes two submodules:
 - **API (Backend)**: [fitness-tracker-backend](https://github.com/KhatirShahidi/fitness-tracker-backend)
 - **WEB (Frontend)**: [fitness-tracker-frontend](https://github.com/KhatirShahidi/fitness-tracker-frontend)
 
+- **Link to Deployment**: [MyFitnessTracker](https://fitness-tracker-frontend-e4ed.onrender.com/)
+
 ## Cloning the Repository with Submodules
 
 To clone the repository along with the submodules in one step for viewing and testing, use the following command:
