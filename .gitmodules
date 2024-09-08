@@ -1,0 +1,6 @@
+[submodule "MyFitnessTracker/MyFitnessTracker/api"]
+	path = MyFitnessTracker/MyFitnessTracker/api
+	url = https://github.com/KhatirShahidi/fitness-tracker-backend
+[submodule "MyFitnessTracker/MyFitnessTracker/web"]
+	path = MyFitnessTracker/MyFitnessTracker/web
+	url = https://github.com/KhatirShahidi/fitness-tracker-frontend
