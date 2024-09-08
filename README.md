@@ -1,6 +1,3 @@
-Here's an updated `README.md` tailored for viewing and testing purposes:
-
-```markdown
 # SEC Final Assignment - MyFitnessTracker
 
 This project includes two submodules:
